@@ -1,0 +1,226 @@
+[
+  {
+    "Pick":1,
+    "Team":"Tampa Bay Buccaneers",
+    "Player":"Jameis Winston",
+    "Position":"QB",
+    "College":"Florida State"
+  },
+  {
+    "Pick":2,
+    "Team":"Tennessee Titans",
+    "Player":"Marcus Mariota",
+    "Position":"QB",
+    "College":"Oregon"
+  },
+  {
+    "Pick":3,
+    "Team":"Jacksonville Jaguars",
+    "Player":"Dante Fowler",
+    "Position":"DE",
+    "College":"Florida"
+  },
+  {
+    "Pick":4,
+    "Team":"Oakland Raiders",
+    "Player":"Amari Cooper",
+    "Position":"WR",
+    "College":"Alabama"
+  },
+  {
+    "Pick":5,
+    "Team":"Washington Redskins",
+    "Player":"Brandon Scherff",
+    "Position":"OT",
+    "College":"Iowa"
+  },
+  {
+    "Pick":6,
+    "Team":"New York Jets",
+    "Player":"Leonard Williams",
+    "Position":"DE",
+    "College":"Southern California"
+  },
+  {
+    "Pick":7,
+    "Team":"Chicago Bears",
+    "Player":"Kevin White",
+    "Position":"WR",
+    "College":"West Virginia"
+  },
+  {
+    "Pick":8,
+    "Team":"Atlanta Falcons",
+    "Player":"Vic Beasley",
+    "Position":"DE",
+    "College":"Clemson"
+  },
+  {
+    "Pick":9,
+    "Team":"New York Giants",
+    "Player":"Ereck Flowers",
+    "Position":"OT",
+    "College":"Miami"
+  },
+  {
+    "Pick":10,
+    "Team":"St. Louis Rams",
+    "Player":"Todd Gurley",
+    "Position":"RB",
+    "College":"Georgia"
+  },
+  {
+    "Pick":11,
+    "Team":"Minnesota Vikings",
+    "Player":"Trae Waynes",
+    "Position":"DB",
+    "College":"Michigan State"
+  },
+  {
+    "Pick":12,
+    "Team":"Cleveland Browns",
+    "Player":"Danny Shelton",
+    "Position":"DT",
+    "College":"Washington"
+  },
+  {
+    "Pick":13,
+    "Team":"New Orleans Saints",
+    "Player":"Andrus Peat",
+    "Position":"OT",
+    "College":"Stanford"
+  },
+  {
+    "Pick":14,
+    "Team":"Miami Dolphins",
+    "Player":"DeVante Parker",
+    "Position":"WR",
+    "College":"Louisville"
+  },
+  {
+    "Pick":15,
+    "Team":"San Diego Chargers",
+    "Player":"Melvin Gordon",
+    "Position":"RB",
+    "College":"Wisconsin"
+  },
+  {
+    "Pick":16,
+    "Team":"Houston Texans",
+    "Player":"Kevin Johnson",
+    "Position":"DB",
+    "College":"Wake Forest"
+  },
+  {
+    "Pick":17,
+    "Team":"San Francisco 49ers",
+    "Player":"Arik Armstead",
+    "Position":"DE",
+    "College":"Oregon"
+  },
+  {
+    "Pick":18,
+    "Team":"Kansas City Chiefs",
+    "Player":"Marcus Peters",
+    "Position":"DB",
+    "College":"Washington"
+  },
+  {
+    "Pick":19,
+    "Team":"Cleveland Browns",
+    "Player":"Cameron Erving",
+    "Position":"C",
+    "College":"Florida State"
+  },
+  {
+    "Pick":20,
+    "Team":"Philadelphia Eagles",
+    "Player":"Nelson Agholor",
+    "Position":"WR",
+    "College":"Southern California"
+  },
+  {
+    "Pick":21,
+    "Team":"Cincinnati Bengals",
+    "Player":"Cedric Ogbuehi",
+    "Position":"OT",
+    "College":"Texas A&M"
+  },
+  {
+    "Pick":22,
+    "Team":"Pittsburgh Steelers",
+    "Player":"Alvin Dupree",
+    "Position":"LB",
+    "College":"Kentucky"
+  },
+  {
+    "Pick":23,
+    "Team":"Denver Broncos",
+    "Player":"Shane Ray",
+    "Position":"DE",
+    "College":"Missouri"
+  },
+  {
+    "Pick":24,
+    "Team":"Arizona Cardinals",
+    "Player":"D.J. Humphries",
+    "Position":"OT",
+    "College":"Florida"
+  },
+  {
+    "Pick":25,
+    "Team":"Carolina Panthers",
+    "Player":"Shaq Thompson",
+    "Position":"LB",
+    "College":"Washington"
+  },
+  {
+    "Pick":26,
+    "Team":"Baltimore Ravens",
+    "Player":"Breshad Perriman",
+    "Position":"WR",
+    "College":"Central Florida"
+  },
+  {
+    "Pick":27,
+    "Team":"Dallas Cowboys",
+    "Player":"Byron Jones",
+    "Position":"DB",
+    "College":"Connecticut"
+  },
+  {
+    "Pick":28,
+    "Team":"Detroit Lions",
+    "Player":"Laken Tomlinson",
+    "Position":"OG",
+    "College":"Duke"
+  },
+  {
+    "Pick":29,
+    "Team":"Indianapolis Colts",
+    "Player":"Phillip Dorsett",
+    "Position":"WR",
+    "College":"Miami"
+  },
+  {
+    "Pick":30,
+    "Team":"Green Bay Packers",
+    "Player":"Damarious Randall",
+    "Position":"DB",
+    "College":"Arizona State"
+  },
+  {
+    "Pick":31,
+    "Team":"New Orleans Saints",
+    "Player":"Stephone Anthony",
+    "Position":"LB",
+    "College":"Clemson"
+  },
+  {
+    "Pick":32,
+    "Team":"New England Patriots",
+    "Player":"Malcom Brown",
+    "Position":"DT",
+    "College":"Texas"
+  }
+]

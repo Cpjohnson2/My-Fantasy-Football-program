@@ -1,0 +1,502 @@
+[
+  {
+    "PLAYER":"Odell Beckham",
+    "NFL TEAM":"NYG",
+    "DEPTH":"WR1",
+    "COLLEGE":"LSU",
+    "AGE":22,
+    "HEIGHT":"5' 11",
+    "WEIGHT":198,
+    "RANKING":"WR - #5"
+  },
+  {
+    "PLAYER":"Kelvin Benjamin",
+    "NFL TEAM":"CAR",
+    "DEPTH":"WR1",
+    "COLLEGE":"Florida State",
+    "AGE":24,
+    "HEIGHT":"6' 5",
+    "WEIGHT":240,
+    "RANKING":"WR - #14"
+  },
+  {
+    "PLAYER":"Mike Evans",
+    "NFL TEAM":"TB",
+    "DEPTH":"WR1",
+    "COLLEGE":"Texas A&M",
+    "AGE":21,
+    "HEIGHT":"6' 5",
+    "WEIGHT":231,
+    "RANKING":"WR - #15"
+  },
+  {
+    "PLAYER":"Brandin Cooks",
+    "NFL TEAM":"NO",
+    "DEPTH":"WR1",
+    "COLLEGE":"Oregon State",
+    "AGE":21,
+    "HEIGHT":"5' 10",
+    "WEIGHT":189,
+    "RANKING":"WR - #16"
+  },
+  {
+    "PLAYER":"Jordan Matthews",
+    "NFL TEAM":"PHI",
+    "DEPTH":"WR1",
+    "COLLEGE":"Vanderbilt",
+    "AGE":22,
+    "HEIGHT":"6' 3",
+    "WEIGHT":212,
+    "RANKING":"WR - #20"
+  },
+  {
+    "PLAYER":"Jarvis Landry",
+    "NFL TEAM":"MIA",
+    "DEPTH":"WR1",
+    "COLLEGE":"LSU",
+    "AGE":22,
+    "HEIGHT":"5' 11",
+    "WEIGHT":202,
+    "RANKING":"WR - #22"
+  },
+  {
+    "PLAYER":"Sammy Watkins",
+    "NFL TEAM":"BUF",
+    "DEPTH":"WR1",
+    "COLLEGE":"Clemson",
+    "AGE":21,
+    "HEIGHT":"6' 1",
+    "WEIGHT":211,
+    "RANKING":"WR - #27"
+  },
+  {
+    "PLAYER":"Martavis Bryant",
+    "NFL TEAM":"PIT",
+    "DEPTH":"WR2",
+    "COLLEGE":"Clemson",
+    "AGE":23,
+    "HEIGHT":"6' 4",
+    "WEIGHT":211,
+    "RANKING":"WR - #32"
+  },
+  {
+    "PLAYER":"Davante Adams",
+    "NFL TEAM":"GB",
+    "DEPTH":"WR3",
+    "COLLEGE":"Fresno State",
+    "AGE":22,
+    "HEIGHT":"6' 1",
+    "WEIGHT":215,
+    "RANKING":"WR - #42"
+  },
+  {
+    "PLAYER":"Allen Robinson",
+    "NFL TEAM":"JAX",
+    "DEPTH":"WR1",
+    "COLLEGE":"Penn State",
+    "AGE":21,
+    "HEIGHT":"6' 3",
+    "WEIGHT":210,
+    "RANKING":"WR - #47"
+  },
+  {
+    "PLAYER":"John Brown",
+    "NFL TEAM":"ARI",
+    "DEPTH":"WR3",
+    "COLLEGE":"Pittsburgh State",
+    "AGE":25,
+    "HEIGHT":"5' 11",
+    "WEIGHT":179,
+    "RANKING":"WR - #52"
+  },
+  {
+    "PLAYER":"Cody Latimer",
+    "NFL TEAM":"DEN",
+    "DEPTH":"WR3",
+    "COLLEGE":"Indiana",
+    "AGE":22,
+    "HEIGHT":"6' 2",
+    "WEIGHT":215,
+    "RANKING":"WR - #55"
+  },
+  {
+    "PLAYER":"Marqise Lee",
+    "NFL TEAM":"JAX",
+    "DEPTH":"WR2",
+    "COLLEGE":"USC",
+    "AGE":23,
+    "HEIGHT":"6' 0",
+    "WEIGHT":192,
+    "RANKING":"WR - #56"
+  },
+  {
+    "PLAYER":"Donte Moncrief",
+    "NFL TEAM":"IND",
+    "DEPTH":"WR3",
+    "COLLEGE":"Mississippi",
+    "AGE":21,
+    "HEIGHT":"6' 2",
+    "WEIGHT":221,
+    "RANKING":"WR - #65"
+  },
+  {
+    "PLAYER":"Allen Hurns",
+    "NFL TEAM":"JAX",
+    "DEPTH":"WR3",
+    "COLLEGE":"Miami",
+    "AGE":23,
+    "HEIGHT":"6' 3",
+    "WEIGHT":195,
+    "RANKING":"WR - #74"
+  },
+  {
+    "PLAYER":"Josh Huff",
+    "NFL TEAM":"PHI",
+    "DEPTH":"WR4",
+    "COLLEGE":"Oregon",
+    "AGE":23,
+    "HEIGHT":"5' 11",
+    "WEIGHT":206,
+    "RANKING":"WR - #76"
+  },
+  {
+    "PLAYER":"Albert Wilson",
+    "NFL TEAM":"KC",
+    "DEPTH":"WR2",
+    "COLLEGE":"Georgia State",
+    "AGE":22,
+    "HEIGHT":"5' 9",
+    "WEIGHT":200,
+    "RANKING":"WR - #103"
+  },
+  {
+    "PLAYER":"Taylor Gabriel",
+    "NFL TEAM":"CLE",
+    "DEPTH":"WR5",
+    "COLLEGE":" ",
+    "AGE":24,
+    "HEIGHT":"5' 8",
+    "WEIGHT":167,
+    "RANKING":"WR - #114"
+  },
+  {
+    "PLAYER":"Philly Brown",
+    "NFL TEAM":"CAR",
+    "DEPTH":"WR5",
+    "COLLEGE":" ",
+    "AGE":23,
+    "HEIGHT":"5' 11",
+    "WEIGHT":180,
+    "RANKING":"WR - #116"
+  },
+  {
+    "PLAYER":"Michael Campanaro",
+    "NFL TEAM":"BAL",
+    "DEPTH":"WR5",
+    "COLLEGE":"Wake Forest",
+    "AGE":24,
+    "HEIGHT":"5' 9",
+    "WEIGHT":185,
+    "RANKING":"WR - #129"
+  },
+  {
+    "PLAYER":"Ryan Grant",
+    "NFL TEAM":"WAS",
+    "DEPTH":"WR5",
+    "COLLEGE":"Tulane",
+    "AGE":24,
+    "HEIGHT":"6' 0",
+    "WEIGHT":193,
+    "RANKING":"WR - #135"
+  },
+  {
+    "PLAYER":"Bruce Ellington",
+    "NFL TEAM":"SF",
+    "DEPTH":"WR3",
+    "COLLEGE":"South Carolina",
+    "AGE":23,
+    "HEIGHT":"5' 9",
+    "WEIGHT":197,
+    "RANKING":"WR - #136"
+  },
+  {
+    "PLAYER":"Jeff Janis",
+    "NFL TEAM":"GB",
+    "DEPTH":"WR4",
+    "COLLEGE":"Saginaw Valley",
+    "AGE":23,
+    "HEIGHT":"6' 3",
+    "WEIGHT":219,
+    "RANKING":"WR - #138"
+  },
+  {
+    "PLAYER":"Devin Street",
+    "NFL TEAM":"DAL",
+    "DEPTH":"WR4",
+    "COLLEGE":"Pittsburgh",
+    "AGE":24,
+    "HEIGHT":"6' 3",
+    "WEIGHT":200,
+    "RANKING":"WR - #143"
+  },
+  {
+    "PLAYER":"T.J. Jones",
+    "NFL TEAM":"DET",
+    "DEPTH":"WR5",
+    "COLLEGE":"Notre Dame",
+    "AGE":22,
+    "HEIGHT":"6' 0",
+    "WEIGHT":188,
+    "RANKING":"WR - #148"
+  },
+  {
+    "PLAYER":"Robert Herron",
+    "NFL TEAM":"TB",
+    "DEPTH":"WR4",
+    "COLLEGE":"Wyoming",
+    "AGE":22,
+    "HEIGHT":"5' 9",
+    "WEIGHT":193,
+    "RANKING":"WR - #150"
+  },
+  {
+    "PLAYER":"Corey Washington",
+    "NFL TEAM":"NYG",
+    "DEPTH":"WR4",
+    "COLLEGE":" ",
+    "AGE":23,
+    "HEIGHT":"6' 4",
+    "WEIGHT":214,
+    "RANKING":"WR - #154"
+  },
+  {
+    "PLAYER":"Jared Abbrederis",
+    "NFL TEAM":"GB",
+    "DEPTH":"WR6",
+    "COLLEGE":"Wisconsin",
+    "AGE":24,
+    "HEIGHT":"6' 1",
+    "WEIGHT":195,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Isaiah Burse",
+    "NFL TEAM":"DEN",
+    "DEPTH":"WR5",
+    "COLLEGE":"Fresno State",
+    "AGE":23,
+    "HEIGHT":"5' 10",
+    "WEIGHT":187,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Jeremy Butler",
+    "NFL TEAM":"BAL",
+    "DEPTH":"WR6",
+    "COLLEGE":" ",
+    "AGE":24,
+    "HEIGHT":"6' 2",
+    "WEIGHT":218,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Brandon Coleman",
+    "NFL TEAM":"NO",
+    "DEPTH":"WR6",
+    "COLLEGE":"Rutgers",
+    "AGE":22,
+    "HEIGHT":"6' 6",
+    "WEIGHT":225,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Kain Colter",
+    "NFL TEAM":"MIN",
+    "DEPTH":"WR7",
+    "COLLEGE":"Northwestern",
+    "AGE":22,
+    "HEIGHT":"6' 0",
+    "WEIGHT":195,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Quincy Enunwa",
+    "NFL TEAM":"NYJ",
+    "DEPTH":"WR7",
+    "COLLEGE":"Nebraska",
+    "AGE":22,
+    "HEIGHT":"6' 2",
+    "WEIGHT":225,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Shaq Evans",
+    "NFL TEAM":"NYJ",
+    "DEPTH":"WR7",
+    "COLLEGE":"UCLA",
+    "AGE":24,
+    "HEIGHT":"6' 1",
+    "WEIGHT":213,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Bennie Fowler",
+    "NFL TEAM":"DEN",
+    "DEPTH":"WR6",
+    "COLLEGE":" ",
+    "AGE":23,
+    "HEIGHT":"6' 1",
+    "WEIGHT":212,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Jeremy Gallon",
+    "NFL TEAM":"OAK",
+    "DEPTH":" ",
+    "COLLEGE":"Michigan",
+    "AGE":25,
+    "HEIGHT":"5' 8",
+    "WEIGHT":184,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Frankie Hammond",
+    "NFL TEAM":"KC",
+    "DEPTH":"WR6",
+    "COLLEGE":" ",
+    "AGE":45,
+    "HEIGHT":"6' 1",
+    "WEIGHT":184,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Matt Hazel",
+    "NFL TEAM":"MIA",
+    "DEPTH":"WR6",
+    "COLLEGE":"Coastal Carolina",
+    "AGE":23,
+    "HEIGHT":"6' 1",
+    "WEIGHT":202,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Chandler Jones",
+    "NFL TEAM":"TB",
+    "DEPTH":"WR7",
+    "COLLEGE":"San Jose State",
+    "AGE":23,
+    "HEIGHT":"5' 9",
+    "WEIGHT":185,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Seantavius Jones",
+    "NFL TEAM":"NO",
+    "DEPTH":"WR7",
+    "COLLEGE":"Valdosta State",
+    "AGE":22,
+    "HEIGHT":"6' 3",
+    "WEIGHT":200,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Freddie Martino",
+    "NFL TEAM":"ATL",
+    "DEPTH":"WR7",
+    "COLLEGE":" ",
+    "AGE":23,
+    "HEIGHT":"6' 0",
+    "WEIGHT":195,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Kevin Norwood",
+    "NFL TEAM":"SEA",
+    "DEPTH":"WR7",
+    "COLLEGE":"Alabama",
+    "AGE":25,
+    "HEIGHT":"6' 2",
+    "WEIGHT":199,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Solomon Patton",
+    "NFL TEAM":"DEN",
+    "DEPTH":"WR7",
+    "COLLEGE":" ",
+    "AGE":24,
+    "HEIGHT":"5' 9",
+    "WEIGHT":177,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Walter Powell",
+    "NFL TEAM":"NYJ",
+    "DEPTH":"WR7",
+    "COLLEGE":"Murray State",
+    "AGE":23,
+    "HEIGHT":"6' 0",
+    "WEIGHT":189,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Tevin Reese",
+    "NFL TEAM":"CIN",
+    "DEPTH":"WR7",
+    "COLLEGE":"Baylor",
+    "AGE":24,
+    "HEIGHT":"5' 10",
+    "WEIGHT":170,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Paul Richardson",
+    "NFL TEAM":"SEA",
+    "DEPTH":"WR6",
+    "COLLEGE":"Colorado",
+    "AGE":23,
+    "HEIGHT":"6' 0",
+    "WEIGHT":183,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Jalen Saunders",
+    "NFL TEAM":"NO",
+    "DEPTH":"WR5",
+    "COLLEGE":"Oklahoma",
+    "AGE":22,
+    "HEIGHT":"5' 9",
+    "WEIGHT":165,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Adam Thielen",
+    "NFL TEAM":"MIN",
+    "DEPTH":"WR5",
+    "COLLEGE":" ",
+    "AGE":24,
+    "HEIGHT":"6' 2",
+    "WEIGHT":195,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"L'Damian Washington",
+    "NFL TEAM":"PIT",
+    "DEPTH":"WR6",
+    "COLLEGE":"Missouri",
+    "AGE":24,
+    "HEIGHT":"6' 4",
+    "WEIGHT":204,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"James Wright",
+    "NFL TEAM":"CIN",
+    "DEPTH":"WR5",
+    "COLLEGE":"LSU",
+    "AGE":23,
+    "HEIGHT":"6' 1",
+    "WEIGHT":201,
+    "RANKING":""
+  }
+]

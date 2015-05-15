@@ -1,0 +1,182 @@
+[
+  {
+    "PLAYER":"Teddy Bridgewater",
+    "NFL TEAM":"MIN",
+    "DEPTH":"QB1",
+    "COLLEGE":"Louisville",
+    "AGE":22,
+    "HEIGHT":"6' 2",
+    "WEIGHT":210,
+    "RANKING":"QB - #18"
+  },
+  {
+    "PLAYER":"Blake Bortles",
+    "NFL TEAM":"JAX",
+    "DEPTH":"QB1",
+    "COLLEGE":"Central Florida",
+    "AGE":23,
+    "HEIGHT":"6' 5",
+    "WEIGHT":232,
+    "RANKING":"QB - #24"
+  },
+  {
+    "PLAYER":"Derek Carr",
+    "NFL TEAM":"OAK",
+    "DEPTH":"QB1",
+    "COLLEGE":"Fresno State",
+    "AGE":24,
+    "HEIGHT":"6' 3",
+    "WEIGHT":214,
+    "RANKING":"QB - #28"
+  },
+  {
+    "PLAYER":"Zach Mettenberger",
+    "NFL TEAM":"TEN",
+    "DEPTH":"QB2",
+    "COLLEGE":"LSU",
+    "AGE":23,
+    "HEIGHT":"6' 5",
+    "WEIGHT":224,
+    "RANKING":"QB - #33"
+  },
+  {
+    "PLAYER":"Jimmy Garoppolo",
+    "NFL TEAM":"NE",
+    "DEPTH":"QB2",
+    "COLLEGE":"Eastern Illinois",
+    "AGE":23,
+    "HEIGHT":"6' 2",
+    "WEIGHT":225,
+    "RANKING":"QB - #34"
+  },
+  {
+    "PLAYER":"Tajh Boyd",
+    "NFL TEAM":"PIT",
+    "DEPTH":"QB4",
+    "COLLEGE":"Clemson",
+    "AGE":24,
+    "HEIGHT":"6' 1",
+    "WEIGHT":222,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"David Fales",
+    "NFL TEAM":"CHI",
+    "DEPTH":"QB3",
+    "COLLEGE":"San Jose State",
+    "AGE":24,
+    "HEIGHT":"6' 1",
+    "WEIGHT":228,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Garrett Gilbert",
+    "NFL TEAM":"NE",
+    "DEPTH":"QB3",
+    "COLLEGE":"SMU",
+    "AGE":23,
+    "HEIGHT":"6' 4",
+    "WEIGHT":221,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Johnny Manziel",
+    "NFL TEAM":"CLE",
+    "DEPTH":"QB2",
+    "COLLEGE":"Texas A&M",
+    "AGE":22,
+    "HEIGHT":"6' 0",
+    "WEIGHT":210,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"A.J. McCarron",
+    "NFL TEAM":"CIN",
+    "DEPTH":"QB2",
+    "COLLEGE":"Alabama",
+    "AGE":24,
+    "HEIGHT":"6' 3",
+    "WEIGHT":220,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Stephen Morris",
+    "NFL TEAM":"JAX",
+    "DEPTH":"QB3",
+    "COLLEGE":"Miami (FL)",
+    "AGE":22,
+    "HEIGHT":"6' 2",
+    "WEIGHT":218,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Aaron Murray",
+    "NFL TEAM":"KC",
+    "DEPTH":"QB3",
+    "COLLEGE":"Georgia",
+    "AGE":24,
+    "HEIGHT":"6' 1",
+    "WEIGHT":207,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Bryn Renner",
+    "NFL TEAM":"BAL",
+    "DEPTH":"QB4",
+    "COLLEGE":"North Carolina",
+    "AGE":25,
+    "HEIGHT":"6' 3",
+    "WEIGHT":225,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Tom Savage",
+    "NFL TEAM":"HOU",
+    "DEPTH":"QB3",
+    "COLLEGE":"Pittsburgh",
+    "AGE":25,
+    "HEIGHT":"6' 4",
+    "WEIGHT":228,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Connor Shaw",
+    "NFL TEAM":"CLE",
+    "DEPTH":"QB4",
+    "COLLEGE":"South Carolina",
+    "AGE":23,
+    "HEIGHT":"6' 1",
+    "WEIGHT":210,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Logan Thomas",
+    "NFL TEAM":"ARI",
+    "DEPTH":"QB3",
+    "COLLEGE":"Virginia Tech",
+    "AGE":23,
+    "HEIGHT":"6' 6",
+    "WEIGHT":250,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Dustin Vaughan",
+    "NFL TEAM":"DAL",
+    "DEPTH":"QB3",
+    "COLLEGE":"West Texas A&M",
+    "AGE":24,
+    "HEIGHT":"6' 5",
+    "WEIGHT":235,
+    "RANKING":" "
+  },
+  {
+    "PLAYER":"Keith Wenning",
+    "NFL TEAM":"---",
+    "DEPTH":"QB3",
+    "COLLEGE":"Ball State",
+    "AGE":24,
+    "HEIGHT":"6' 3",
+    "WEIGHT":218,
+    "RANKING":" "
+  }
+]

@@ -1,0 +1,1043 @@
+[
+  {
+    "Rk":"1",
+    "Player":"Devin Smith",
+    "School":"Ohio State",
+    "Conf":"Big Ten",
+    "Rec":"33",
+    "Yds":"931",
+    "Avg":"28.2",
+    "TD":"12"
+  },
+  {
+    "Rk":"2",
+    "Player":"Phillip Dorsett",
+    "School":"Miami (FL)",
+    "Conf":"ACC",
+    "Rec":"36",
+    "Yds":"871",
+    "Avg":"24.2",
+    "TD":"10"
+  },
+  {
+    "Rk":"3",
+    "Player":"Chris Moore",
+    "School":"Cincinnati",
+    "Conf":"American",
+    "Rec":"30",
+    "Yds":"673",
+    "Avg":"22.4",
+    "TD":"8"
+  },
+  {
+    "Rk":"4",
+    "Player":"Sammie Coates",
+    "School":"Auburn",
+    "Conf":"SEC",
+    "Rec":"34",
+    "Yds":"741",
+    "Avg":"21.8",
+    "TD":"4"
+  },
+  {
+    "Rk":"5",
+    "Player":"Ian Hamilton",
+    "School":"Texas-El Paso",
+    "Conf":"CUSA",
+    "Rec":"27",
+    "Yds":"579",
+    "Avg":"21.4",
+    "TD":"2"
+  },
+  {
+    "Rk":"6",
+    "Player":"Breshad Perriman",
+    "School":"Central Florida",
+    "Conf":"American",
+    "Rec":"50",
+    "Yds":"1044",
+    "Avg":"20.9",
+    "TD":"9"
+  },
+  {
+    "Rk":"7",
+    "Player":"Travin Dural",
+    "School":"Louisiana State",
+    "Conf":"SEC",
+    "Rec":"37",
+    "Yds":"758",
+    "Avg":"20.5",
+    "TD":"7"
+  },
+  {
+    "Rk":"8",
+    "Player":"Deandre Smelter",
+    "School":"Georgia Tech",
+    "Conf":"ACC",
+    "Rec":"35",
+    "Yds":"715",
+    "Avg":"20.4",
+    "TD":"7"
+  },
+  {
+    "Rk":"9",
+    "Player":"Glen Coleman",
+    "School":"Florida International",
+    "Conf":"CUSA",
+    "Rec":"23",
+    "Yds":"468",
+    "Avg":"20.3",
+    "TD":"3"
+  },
+  {
+    "Rk":"10",
+    "Player":"Devante Parker",
+    "School":"Louisville",
+    "Conf":"ACC",
+    "Rec":"43",
+    "Yds":"855",
+    "Avg":"19.9",
+    "TD":"5"
+  },
+  {
+    "Rk":"11",
+    "Player":"Leonte Carroo",
+    "School":"Rutgers",
+    "Conf":"Big Ten",
+    "Rec":"55",
+    "Yds":"1086",
+    "Avg":"19.7",
+    "TD":"10"
+  },
+  {
+    "Rk":"12",
+    "Player":"Carlos Henderson",
+    "School":"Louisiana Tech",
+    "Conf":"CUSA",
+    "Rec":"29",
+    "Yds":"569",
+    "Avg":"19.6",
+    "TD":"4"
+  },
+  {
+    "Rk":"13",
+    "Player":"Rokeem Williams",
+    "School":"Miami (OH)",
+    "Conf":"MAC",
+    "Rec":"35",
+    "Yds":"682",
+    "Avg":"19.5",
+    "TD":"3"
+  },
+  {
+    "Rk":"14",
+    "Player":"Mario Hull",
+    "School":"Rice",
+    "Conf":"CUSA",
+    "Rec":"32",
+    "Yds":"621",
+    "Avg":"19.4",
+    "TD":"8"
+  },
+  {
+    "Rk":"15",
+    "Player":"Thomas Duarte",
+    "School":"UCLA",
+    "Conf":"Pac-12",
+    "Rec":"28",
+    "Yds":"540",
+    "Avg":"19.3",
+    "TD":"4"
+  },
+  {
+    "Rk":"16",
+    "Player":"Darius Jennings",
+    "School":"Virginia",
+    "Conf":"ACC",
+    "Rec":"27",
+    "Yds":"521",
+    "Avg":"19.3",
+    "TD":"2"
+  },
+  {
+    "Rk":"17",
+    "Player":"Sterling Shepard",
+    "School":"Oklahoma",
+    "Conf":"Big 12",
+    "Rec":"51",
+    "Yds":"970",
+    "Avg":"19.0",
+    "TD":"5"
+  },
+  {
+    "Rk":"18",
+    "Player":"Darren Carrington",
+    "School":"Oregon",
+    "Conf":"Pac-12",
+    "Rec":"37",
+    "Yds":"704",
+    "Avg":"19.0",
+    "TD":"4"
+  },
+  {
+    "Rk":"19",
+    "Player":"Devin Lauderdale",
+    "School":"Texas Tech",
+    "Conf":"Big 12",
+    "Rec":"31",
+    "Yds":"589",
+    "Avg":"19.0",
+    "TD":"7"
+  },
+  {
+    "Rk":"20",
+    "Player":"Keith Mumphery",
+    "School":"Michigan State",
+    "Conf":"Big Ten",
+    "Rec":"26",
+    "Yds":"495",
+    "Avg":"19.0",
+    "TD":"3"
+  },
+  {
+    "Rk":"Rk",
+    "Player":"Player",
+    "School":"School",
+    "Conf":"Conf",
+    "Rec":"Rec",
+    "Yds":"Yds",
+    "Avg":"Avg",
+    "TD":"TD"
+  },
+  {
+    "Rk":"21",
+    "Player":"Brandon Sheperd",
+    "School":"Oklahoma State",
+    "Conf":"Big 12",
+    "Rec":"39",
+    "Yds":"737",
+    "Avg":"18.9",
+    "TD":"5"
+  },
+  {
+    "Rk":"22",
+    "Player":"Jalen Robinette",
+    "School":"Air Force",
+    "Conf":"MWC",
+    "Rec":"43",
+    "Yds":"806",
+    "Avg":"18.7",
+    "TD":"4"
+  },
+  {
+    "Rk":"23",
+    "Player":"Jamarcus Nelson",
+    "School":"Alabama-Birmingham",
+    "Conf":"CUSA",
+    "Rec":"35",
+    "Yds":"655",
+    "Avg":"18.7",
+    "TD":"4"
+  },
+  {
+    "Rk":"24",
+    "Player":"Cam Worthy",
+    "School":"East Carolina",
+    "Conf":"American",
+    "Rec":"55",
+    "Yds":"1016",
+    "Avg":"18.5",
+    "TD":"4"
+  },
+  {
+    "Rk":"25",
+    "Player":"Tony Lippett",
+    "School":"Michigan State",
+    "Conf":"Big Ten",
+    "Rec":"65",
+    "Yds":"1198",
+    "Avg":"18.4",
+    "TD":"11"
+  },
+  {
+    "Rk":"26",
+    "Player":"Kolby Listenbee",
+    "School":"Texas Christian",
+    "Conf":"Big 12",
+    "Rec":"41",
+    "Yds":"753",
+    "Avg":"18.4",
+    "TD":"4"
+  },
+  {
+    "Rk":"27",
+    "Player":"Chris Conley",
+    "School":"Georgia",
+    "Conf":"SEC",
+    "Rec":"36",
+    "Yds":"657",
+    "Avg":"18.3",
+    "TD":"8"
+  },
+  {
+    "Rk":"28",
+    "Player":"Rashard Higgins",
+    "School":"Colorado State",
+    "Conf":"MWC",
+    "Rec":"96",
+    "Yds":"1750",
+    "Avg":"18.2",
+    "TD":"17"
+  },
+  {
+    "Rk":"29",
+    "Player":"Corey Davis",
+    "School":"Western Michigan",
+    "Conf":"MAC",
+    "Rec":"78",
+    "Yds":"1408",
+    "Avg":"18.1",
+    "TD":"15"
+  },
+  {
+    "Rk":"30",
+    "Player":"Mike Williams",
+    "School":"Clemson",
+    "Conf":"ACC",
+    "Rec":"57",
+    "Yds":"1030",
+    "Avg":"18.1",
+    "TD":"6"
+  },
+  {
+    "Rk":"31",
+    "Player":"Jayess Blue",
+    "School":"Kentucky",
+    "Conf":"SEC",
+    "Rec":"29",
+    "Yds":"525",
+    "Avg":"18.1",
+    "TD":"5"
+  },
+  {
+    "Rk":"32",
+    "Player":"Nigel King",
+    "School":"Kansas",
+    "Conf":"Big 12",
+    "Rec":"30",
+    "Yds":"537",
+    "Avg":"17.9",
+    "TD":"1"
+  },
+  {
+    "Rk":"33",
+    "Player":"K.D. Cannon",
+    "School":"Baylor",
+    "Conf":"Big 12",
+    "Rec":"58",
+    "Yds":"1030",
+    "Avg":"17.8",
+    "TD":"8"
+  },
+  {
+    "Rk":"34",
+    "Player":"Vince Sanders",
+    "School":"Mississippi",
+    "Conf":"SEC",
+    "Rec":"39",
+    "Yds":"696",
+    "Avg":"17.8",
+    "TD":"6"
+  },
+  {
+    "Rk":"35",
+    "Player":"C.J. Prosise",
+    "School":"Notre Dame",
+    "Conf":"Ind",
+    "Rec":"29",
+    "Yds":"516",
+    "Avg":"17.8",
+    "TD":"2",
+    "Att":"10"
+  },
+  {
+    "Rk":"36",
+    "Player":"Devante Davis",
+    "School":"Nevada-Las Vegas",
+    "Conf":"MWC",
+    "Rec":"34",
+    "Yds":"599",
+    "Avg":"17.6",
+    "TD":"4"
+  },
+  {
+    "Rk":"37",
+    "Player":"Corey Coleman",
+    "School":"Baylor",
+    "Conf":"Big 12",
+    "Rec":"64",
+    "Yds":"1119",
+    "Avg":"17.5",
+    "TD":"11"
+  },
+  {
+    "Rk":"38",
+    "Player":"Jimmie Hunt",
+    "School":"Missouri",
+    "Conf":"SEC",
+    "Rec":"40",
+    "Yds":"698",
+    "Avg":"17.5",
+    "TD":"7"
+  },
+  {
+    "Rk":"39",
+    "Player":"Mack Hollins",
+    "School":"North Carolina",
+    "Conf":"ACC",
+    "Rec":"35",
+    "Yds":"613",
+    "Avg":"17.5",
+    "TD":"8"
+  },
+  {
+    "Rk":"40",
+    "Player":"Charles Lovett",
+    "School":"Colorado State",
+    "Conf":"MWC",
+    "Rec":"28",
+    "Yds":"490",
+    "Avg":"17.5",
+    "TD":"3"
+  },
+  {
+    "Rk":"Rk",
+    "Player":"Player",
+    "School":"School",
+    "Conf":"Conf",
+    "Rec":"Rec",
+    "Yds":"Yds",
+    "Avg":"Avg",
+    "TD":"TD"
+  },
+  {
+    "Rk":"41",
+    "Player":"Evan Engram",
+    "School":"Mississippi",
+    "Conf":"SEC",
+    "Rec":"38",
+    "Yds":"662",
+    "Avg":"17.4",
+    "TD":"2"
+  },
+  {
+    "Rk":"42",
+    "Player":"Dijon Paschal",
+    "School":"Arkansas State",
+    "Conf":"Sun Belt",
+    "Rec":"37",
+    "Yds":"642",
+    "Avg":"17.4",
+    "TD":"4"
+  },
+  {
+    "Rk":"43",
+    "Player":"Thomas Sperbeck",
+    "School":"Boise State",
+    "Conf":"MWC",
+    "Rec":"51",
+    "Yds":"877",
+    "Avg":"17.2",
+    "TD":"3"
+  },
+  {
+    "Rk":"44",
+    "Player":"Taywan Taylor",
+    "School":"Western Kentucky",
+    "Conf":"CUSA",
+    "Rec":"45",
+    "Yds":"767",
+    "Avg":"17.0",
+    "TD":"7"
+  },
+  {
+    "Rk":"45",
+    "Player":"Jordan Westerkamp",
+    "School":"Nebraska",
+    "Conf":"Big Ten",
+    "Rec":"44",
+    "Yds":"747",
+    "Avg":"17.0",
+    "TD":"5"
+  },
+  {
+    "Rk":"46",
+    "Player":"Kenny Bell",
+    "School":"Nebraska",
+    "Conf":"Big Ten",
+    "Rec":"47",
+    "Yds":"788",
+    "Avg":"16.8",
+    "TD":"6"
+  },
+  {
+    "Rk":"47",
+    "Player":"Markeith Ambles",
+    "School":"Houston",
+    "Conf":"American",
+    "Rec":"32",
+    "Yds":"539",
+    "Avg":"16.8",
+    "TD":"4"
+  },
+  {
+    "Rk":"48",
+    "Player":"Devon Allen",
+    "School":"Oregon",
+    "Conf":"Pac-12",
+    "Rec":"41",
+    "Yds":"684",
+    "Avg":"16.7",
+    "TD":"7"
+  },
+  {
+    "Rk":"49",
+    "Player":"James Washington",
+    "School":"Oklahoma State",
+    "Conf":"Big 12",
+    "Rec":"27",
+    "Yds":"451",
+    "Avg":"16.7",
+    "TD":"6"
+  },
+  {
+    "Rk":"50",
+    "Player":"Trevor Davis",
+    "School":"California",
+    "Conf":"Pac-12",
+    "Rec":"24",
+    "Yds":"399",
+    "Avg":"16.6",
+    "TD":"5"
+  },
+  {
+    "Rk":"51",
+    "Player":"Pharoh Cooper",
+    "School":"South Carolina",
+    "Conf":"SEC",
+    "Rec":"69",
+    "Yds":"1136",
+    "Avg":"16.5",
+    "TD":"9"
+  },
+  {
+    "Rk":"52",
+    "Player":"Mekale McKay",
+    "School":"Cincinnati",
+    "Conf":"American",
+    "Rec":"44",
+    "Yds":"725",
+    "Avg":"16.5",
+    "TD":"8"
+  },
+  {
+    "Rk":"53",
+    "Player":"Andre Davis",
+    "School":"South Florida",
+    "Conf":"American",
+    "Rec":"36",
+    "Yds":"594",
+    "Avg":"16.5",
+    "TD":"7"
+  },
+  {
+    "Rk":"54",
+    "Player":"Jordan Villamin",
+    "School":"Oregon State",
+    "Conf":"Pac-12",
+    "Rec":"35",
+    "Yds":"578",
+    "Avg":"16.5",
+    "TD":"6"
+  },
+  {
+    "Rk":"55",
+    "Player":"Der'Rikk Thompson",
+    "School":"Southern Methodist",
+    "Conf":"American",
+    "Rec":"31",
+    "Yds":"512",
+    "Avg":"16.5",
+    "TD":"1"
+  },
+  {
+    "Rk":"56",
+    "Player":"Matt Miller",
+    "School":"Boise State",
+    "Conf":"MWC",
+    "Rec":"28",
+    "Yds":"461",
+    "Avg":"16.5",
+    "TD":"3"
+  },
+  {
+    "Rk":"57",
+    "Player":"Devon Cajuste",
+    "School":"Stanford",
+    "Conf":"Pac-12",
+    "Rec":"34",
+    "Yds":"557",
+    "Avg":"16.4",
+    "TD":"6"
+  },
+  {
+    "Rk":"58",
+    "Player":"Titus Davis",
+    "School":"Central Michigan",
+    "Conf":"MAC",
+    "Rec":"60",
+    "Yds":"980",
+    "Avg":"16.3",
+    "TD":"13"
+  },
+  {
+    "Rk":"59",
+    "Player":"Rodney Mills",
+    "School":"Massachusetts",
+    "Conf":"MAC",
+    "Rec":"30",
+    "Yds":"489",
+    "Avg":"16.3",
+    "TD":"5"
+  },
+  {
+    "Rk":"60",
+    "Player":"Fred Ross",
+    "School":"Mississippi State",
+    "Conf":"SEC",
+    "Rec":"30",
+    "Yds":"489",
+    "Avg":"16.3",
+    "TD":"5"
+  },
+  {
+    "Rk":"Rk",
+    "Player":"Player",
+    "School":"School",
+    "Conf":"Conf",
+    "Rec":"Rec",
+    "Yds":"Yds",
+    "Avg":"Avg",
+    "TD":"TD"
+  },
+  {
+    "Rk":"61",
+    "Player":"Tyler Boyd",
+    "School":"Pittsburgh",
+    "Conf":"ACC",
+    "Rec":"78",
+    "Yds":"1261",
+    "Avg":"16.2",
+    "TD":"8"
+  },
+  {
+    "Rk":"62",
+    "Player":"Josh Reynolds",
+    "School":"Texas A&M",
+    "Conf":"SEC",
+    "Rec":"52",
+    "Yds":"842",
+    "Avg":"16.2",
+    "TD":"13"
+  },
+  {
+    "Rk":"63",
+    "Player":"D'Haquille Williams",
+    "School":"Auburn",
+    "Conf":"SEC",
+    "Rec":"45",
+    "Yds":"730",
+    "Avg":"16.2",
+    "TD":"5"
+  },
+  {
+    "Rk":"64",
+    "Player":"Danny Anthrop",
+    "School":"Purdue",
+    "Conf":"Big Ten",
+    "Rec":"38",
+    "Yds":"616",
+    "Avg":"16.2",
+    "TD":"4"
+  },
+  {
+    "Rk":"65",
+    "Player":"Jesse Kroll",
+    "School":"Central Michigan",
+    "Conf":"MAC",
+    "Rec":"36",
+    "Yds":"582",
+    "Avg":"16.2",
+    "TD":"4"
+  },
+  {
+    "Rk":"66",
+    "Player":"Deante' Gray",
+    "School":"Texas Christian",
+    "Conf":"Big 12",
+    "Rec":"36",
+    "Yds":"582",
+    "Avg":"16.2",
+    "TD":"8"
+  },
+  {
+    "Rk":"67",
+    "Player":"Ezell Ruffin",
+    "School":"San Diego State",
+    "Conf":"MWC",
+    "Rec":"26",
+    "Yds":"422",
+    "Avg":"16.2",
+    "TD":"2"
+  },
+  {
+    "Rk":"68",
+    "Player":"David Frazier",
+    "School":"Miami (OH)",
+    "Conf":"MAC",
+    "Rec":"59",
+    "Yds":"949",
+    "Avg":"16.1",
+    "TD":"5"
+  },
+  {
+    "Rk":"69",
+    "Player":"Samajie Grant",
+    "School":"Arizona",
+    "Conf":"Pac-12",
+    "Rec":"45",
+    "Yds":"718",
+    "Avg":"16.0",
+    "TD":"6"
+  },
+  {
+    "Rk":"70",
+    "Player":"Maxx Williams",
+    "School":"Minnesota",
+    "Conf":"Big Ten",
+    "Rec":"36",
+    "Yds":"569",
+    "Avg":"15.8",
+    "TD":"8"
+  },
+  {
+    "Rk":"71",
+    "Player":"C.J. Duncan",
+    "School":"Vanderbilt",
+    "Conf":"SEC",
+    "Rec":"28",
+    "Yds":"441",
+    "Avg":"15.8",
+    "TD":"4"
+  },
+  {
+    "Rk":"72",
+    "Player":"Da'Ron Brown",
+    "School":"Northern Illinois",
+    "Conf":"MAC",
+    "Rec":"68",
+    "Yds":"1065",
+    "Avg":"15.7",
+    "TD":"6"
+  },
+  {
+    "Rk":"73",
+    "Player":"Josh Doctson",
+    "School":"Texas Christian",
+    "Conf":"Big 12",
+    "Rec":"65",
+    "Yds":"1018",
+    "Avg":"15.7",
+    "TD":"11"
+  },
+  {
+    "Rk":"74",
+    "Player":"James Quick",
+    "School":"Louisville",
+    "Conf":"ACC",
+    "Rec":"36",
+    "Yds":"566",
+    "Avg":"15.7",
+    "TD":"3"
+  },
+  {
+    "Rk":"75",
+    "Player":"Jordan Taylor",
+    "School":"Rice",
+    "Conf":"CUSA",
+    "Rec":"54",
+    "Yds":"842",
+    "Avg":"15.6",
+    "TD":"7"
+  },
+  {
+    "Rk":"76",
+    "Player":"John Harris",
+    "School":"Texas",
+    "Conf":"Big 12",
+    "Rec":"68",
+    "Yds":"1051",
+    "Avg":"15.5",
+    "TD":"7"
+  },
+  {
+    "Rk":"77",
+    "Player":"Jean Sifrin",
+    "School":"Massachusetts",
+    "Conf":"MAC",
+    "Rec":"41",
+    "Yds":"637",
+    "Avg":"15.5",
+    "TD":"6"
+  },
+  {
+    "Rk":"78",
+    "Player":"Miles Gooch",
+    "School":"Virginia",
+    "Conf":"ACC",
+    "Rec":"24",
+    "Yds":"371",
+    "Avg":"15.5",
+    "TD":"1"
+  },
+  {
+    "Rk":"79",
+    "Player":"Ron Willoughby",
+    "School":"Buffalo",
+    "Conf":"MAC",
+    "Rec":"50",
+    "Yds":"771",
+    "Avg":"15.4",
+    "TD":"9"
+  },
+  {
+    "Rk":"80",
+    "Player":"Clive Walford",
+    "School":"Miami (FL)",
+    "Conf":"ACC",
+    "Rec":"44",
+    "Yds":"676",
+    "Avg":"15.4",
+    "TD":"7"
+  },
+  {
+    "Rk":"Rk",
+    "Player":"Player",
+    "School":"School",
+    "Conf":"Conf",
+    "Rec":"Rec",
+    "Yds":"Yds",
+    "Avg":"Avg",
+    "TD":"TD"
+  },
+  {
+    "Rk":"81",
+    "Player":"Jay Lee",
+    "School":"Baylor",
+    "Conf":"Big 12",
+    "Rec":"41",
+    "Yds":"633",
+    "Avg":"15.4",
+    "TD":"6"
+  },
+  {
+    "Rk":"82",
+    "Player":"Joe Hansley",
+    "School":"Colorado State",
+    "Conf":"MWC",
+    "Rec":"35",
+    "Yds":"540",
+    "Avg":"15.4",
+    "TD":"2"
+  },
+  {
+    "Rk":"83",
+    "Player":"Steve Ishmael",
+    "School":"Syracuse",
+    "Conf":"ACC",
+    "Rec":"27",
+    "Yds":"415",
+    "Avg":"15.4",
+    "TD":"3"
+  },
+  {
+    "Rk":"84",
+    "Player":"Joshua McCain",
+    "School":"Idaho",
+    "Conf":"Sun Belt",
+    "Rec":"76",
+    "Yds":"1162",
+    "Avg":"15.3",
+    "TD":"9"
+  },
+  {
+    "Rk":"85",
+    "Player":"Dominique Williams",
+    "School":"Washington State",
+    "Conf":"Pac-12",
+    "Rec":"43",
+    "Yds":"656",
+    "Avg":"15.3",
+    "TD":"9"
+  },
+  {
+    "Rk":"86",
+    "Player":"Mitchell Henry",
+    "School":"Western Kentucky",
+    "Conf":"CUSA",
+    "Rec":"32",
+    "Yds":"489",
+    "Avg":"15.3",
+    "TD":"4"
+  },
+  {
+    "Rk":"87",
+    "Player":"Demarcus Robinson",
+    "School":"Florida",
+    "Conf":"SEC",
+    "Rec":"54",
+    "Yds":"821",
+    "Avg":"15.2",
+    "TD":"7"
+  },
+  {
+    "Rk":"88",
+    "Player":"Demarco Robinson",
+    "School":"Kentucky",
+    "Conf":"SEC",
+    "Rec":"33",
+    "Yds":"501",
+    "Avg":"15.2",
+    "TD":"1"
+  },
+  {
+    "Rk":"89",
+    "Player":"Tajae Sharpe",
+    "School":"Massachusetts",
+    "Conf":"MAC",
+    "Rec":"85",
+    "Yds":"1281",
+    "Avg":"15.1",
+    "TD":"7"
+  },
+  {
+    "Rk":"90",
+    "Player":"Devonte Boyd",
+    "School":"Nevada-Las Vegas",
+    "Conf":"MWC",
+    "Rec":"65",
+    "Yds":"980",
+    "Avg":"15.1",
+    "TD":"4"
+  },
+  {
+    "Rk":"91",
+    "Player":"Ajalen Holley",
+    "School":"Louisiana-Monroe",
+    "Conf":"Sun Belt",
+    "Rec":"57",
+    "Yds":"863",
+    "Avg":"15.1",
+    "TD":"7"
+  },
+  {
+    "Rk":"92",
+    "Player":"Alonzo Russell",
+    "School":"Toledo",
+    "Conf":"MAC",
+    "Rec":"51",
+    "Yds":"770",
+    "Avg":"15.1",
+    "TD":"8"
+  },
+  {
+    "Rk":"93",
+    "Player":"Edward Pope",
+    "School":"Texas A&M",
+    "Conf":"SEC",
+    "Rec":"30",
+    "Yds":"454",
+    "Avg":"15.1",
+    "TD":"4"
+  },
+  {
+    "Rk":"94",
+    "Player":"Mitchell Juergens",
+    "School":"Brigham Young",
+    "Conf":"Ind",
+    "Rec":"28",
+    "Yds":"424",
+    "Avg":"15.1",
+    "TD":"4"
+  },
+  {
+    "Rk":"95",
+    "Player":"Roger Lewis",
+    "School":"Bowling Green State",
+    "Conf":"MAC",
+    "Rec":"73",
+    "Yds":"1093",
+    "Avg":"15.0",
+    "TD":"7"
+  },
+  {
+    "Rk":"96",
+    "Player":"Darius Phillips",
+    "School":"Western Michigan",
+    "Conf":"MAC",
+    "Rec":"32",
+    "Yds":"479",
+    "Avg":"15.0",
+    "TD":"2"
+  },
+  {
+    "Rk":"97",
+    "Player":"Keyarris Garrett",
+    "School":"Tulsa",
+    "Conf":"American",
+    "Rec":"47",
+    "Yds":"698",
+    "Avg":"14.9",
+    "TD":"5"
+  },
+  {
+    "Rk":"98",
+    "Player":"Dwayne Stanford",
+    "School":"Oregon",
+    "Conf":"Pac-12",
+    "Rec":"43",
+    "Yds":"639",
+    "Avg":"14.9",
+    "TD":"6"
+  },
+  {
+    "Rk":"99",
+    "Player":"Garrett Brown",
+    "School":"Air Force",
+    "Conf":"MWC",
+    "Rec":"36",
+    "Yds":"535",
+    "Avg":"14.9",
+    "TD":"6"
+  },
+  {
+    "Rk":"100",
+    "Player":"Johnny Holton",
+    "School":"Cincinnati",
+    "Conf":"American",
+    "Rec":"29",
+    "Yds":"431",
+    "Avg":"14.9",
+    "TD":"5"
+  }
+]
